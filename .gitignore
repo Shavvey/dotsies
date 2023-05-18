@@ -1,0 +1,8 @@
+# ignore nvim
+nvim
+
+# ignore fish
+fish
+
+# ignore rstudio stuff
+rstudio
